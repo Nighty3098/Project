@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/MS_VS_GAS">
+        <file>resources/green.png</file>
+        <file>resources/greenHovered.png</file>
+        <file>resources/greenInHovered.png</file>
+        <file>resources/red.png</file>
+        <file>resources/redHovered.png</file>
+        <file>resources/yellow.png</file>
+        <file>resources/yellowHovered.png</file>
+        <file>resources/about.png</file>
+        <file>resources/equation.png</file>
+    </qresource>
+</RCC>
